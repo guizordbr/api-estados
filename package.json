@@ -1,0 +1,16 @@
+{
+  "name": "api-estados",
+  "version": "1.0.0",
+  "description": "API Estados Brasileiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tá tudo bem!\"",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "guizordbr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
